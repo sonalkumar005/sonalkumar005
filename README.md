@@ -1,13 +1,20 @@
 <!-- Typing Header -->
 <h1 align="center">
+  🎬 Coding Vibes
+<p align="center">  <img src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif"  width="1000" alt="Think AI" /> </p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Sonal+Kumar+from+India;B.Tech+in+CSE+(Data+Science)+%7C+MRCET;Python+%7C+JavaScript+%7C+React+%7C+Node+Developer;Building+AI-Powered+Apps+%26+Smart+Backends;Open+Source+Contributor+%7C+Tech+Lover+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">⚡ Passionate Software Engineer diving into Data Science & Full Stack Magic 🚀</h3>
 
+<p align="center"> 
+   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"height="300" width="4000" alt="Coding on Laptop" />
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="250" width="1000" alt="Eat Sleep Code Repeat" /><p align="center">
+</p>
+
 <!-- Roadmap GIF -->
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*ebmDMPXU9xqgwqdob0XbKQ.gif" width="800" alt="Data Science Roadmap" />
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*ebmDMPXU9xqgwqdob0XbKQ.gif"height="500" alt="Data Science Roadmap"/>
 </p>
 
 <!-- Profile Views -->
@@ -84,7 +91,7 @@ I love crafting intelligent software, building smart UIs, and scaling backend sy
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="0" height="40" />
   </a>
 </p>
 
@@ -101,18 +108,26 @@ I love crafting intelligent software, building smart UIs, and scaling backend sy
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonalkumar005" alt="GitHub Streak" />
 </p>
 
----
-
-
----
-
-### 🧠 My Developer Card
-```javascript
+<!-- 🧠 My Developer Card -->
+<table>
+  <tr>
+    <td>
+      <pre>
+<code>
+  <h2 align="center">🧠 My Developer Card</h2>
 const SonalKumar = {
   education: "B.Tech CSE Data Science (2023–2027)",
-  institution: "MRCET, Hyderabad 🇮🇳",
-  role: "Student & Developer",
+  institution: "Malla Reddy College of Engineering & Technology, Hyderabad ",
+  role:"Data Science Student & Developer",
   skills: ["Python", "HTML", "CSS", "JavaScript", "Java", "SQL", "C"],
-  focus: ["React", "Node", "AI", "Backend APIs"],
-  availableFor: ["Internships", "Collaborations", "Open Source"]
+  focus: [ "Data Science", "Machine Learning","React", "Node.js", "AI", "Backend APIs"], 
+  availableFor: ["Internships", "Tech Collaborations", "Open Source Contributions"] 
 };
+</code>
+          </code>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/kg4gaF4zJr57JfjgkO/giphy.gif" width="250" alt="AI Robot Animation"/>
+    </td>
+  </tr>
+</table>
