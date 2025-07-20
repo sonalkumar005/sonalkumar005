@@ -48,7 +48,7 @@ I love crafting intelligent software, building smart UIs, and scaling backend sy
 
 ### 🔗 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/sonal-kumar" target="blank">
+  <a href="https://www.linkedin.com/in/sonal-kumar-268394312?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BLSEHZnrDQZKs39ISOXMRlg%3D%3D " target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/_m.r_s.o.n.a.l_y.a.d.a.v_45" target="blank">
@@ -115,14 +115,14 @@ I love crafting intelligent software, building smart UIs, and scaling backend sy
       <pre>
 <code>
   <h2 align="center">🧠 My Developer Card</h2>
-const SonalKumar = {
-  education: "B.Tech CSE Data Science (2023–2027)",
-  institution: "Malla Reddy College of Engineering & Technology, Hyderabad ",
-  role:"Data Science Student & Developer",
-  skills: ["Python", "HTML", "CSS", "JavaScript", "Java", "SQL", "C"],
-  focus: [ "Data Science", "Machine Learning","React", "Node.js", "AI", "Backend APIs"], 
-  availableFor: ["Internships", "Tech Collaborations", "Open Source Contributions"] 
-};
+   const SonalKumar = {
+   education: "B.Tech CSE Data Science (2023–2027)",
+   institution: "Malla Reddy College of Engineering & Technology, Hyderabad ",
+   role:"Data Science Student & Developer",
+   skills: ["Python", "HTML", "CSS", "JavaScript", "Java", "SQL", "C"],
+   focus: [ "Data Science", "Machine Learning","React", "Node.js", "AI", "Backend APIs"], 
+   availableFor: ["Internships", "Tech Collaborations", "Open Source Contributions"] 
+   };
 </code>
           </code>
     </td>
