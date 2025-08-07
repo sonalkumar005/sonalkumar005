@@ -1,4 +1,7 @@
 <!-- Typing Header -->
+# Sonal Kumar  
+## B.Tech Data Science Student | Aspiring Data Scientist
+
 <h1 align="center">
   🎬 Coding Vibes
 <p align="center">  <img src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif"  width="1000" alt="Think AI" /> </p>
@@ -46,68 +49,30 @@ I love crafting intelligent software, building smart UIs, and scaling backend sy
 
 ---
 
-### 🔗 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/sonal-kumar-268394312?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BLSEHZnrDQZKs39ISOXMRlg%3D%3D " target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_m.r_s.o.n.a.l_y.a.d.a.v_45" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/@sonal2872005" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/sonalkumar91" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-</p>
+## 🛠️ Languages & Tools:
+
+
+<div align="center">
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+
+### **Developer Tools**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 🛠️ Languages & Tools:
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="0" height="40" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonalkumar005&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonalkumar005&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonalkumar005" alt="GitHub Streak" />
-</p>
-
 <!-- 🧠 My Developer Card -->
 <table>
   <tr>
@@ -131,3 +96,81 @@ I love crafting intelligent software, building smart UIs, and scaling backend sy
     </td>
   </tr>
 </table>
+
+## GitHub Statistics
+---
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/pavanlost56">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sonalkumar005&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="sonal GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/sonalkumar005">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sonalkumar005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Pavan's Most Used Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sonal-kumar-268394312?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BLSEHZnrDQZKs39ISOXMRlg%3D%3D " target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/_m.r_s.o.n.a.l_y.a.d.a.v_45" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/@sonal2872005" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/sonalkumar91" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Developers Connecting">
+
+Let's build the future with Data Science! 📊🚀
+
+<div align="center">
+<a href="https://github.com/sonalkumar005">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100" alt="GitHub Contact">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" alt="Data Science Developer">
+</div>
+
+### 📞 Contact: +91-9693078586
+
+### 💼 Open to:
+
+- **Seeking** internship opportunities in Data Science and Backend Development  
+- **Open to** collaborating on innovative Data Science projects  
+- **Interested in** contributing to open source  
+- **Enjoy** engaging in technical discussions on Data Analytics and Software Development
+
+<div align="center">
+
+---
+
+*"Turning data into insights, code into solutions."*
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Footer Animation">
+
+![Visitor Count](https://profile-counter.glitch.me/sonalkumar005/count.svg)
+
+**Thanks for visiting!** ⭐ Star some repositories if you find them interesting!
+
+---
+
+<sub>Built with ❤️ by Sonal Kumar | Data Science Student | Last updated: August 2025</sub>
+
+</div>
+
+
+</p>
+
