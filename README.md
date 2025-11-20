@@ -102,7 +102,7 @@ I love crafting intelligent software, building smart UIs, and scaling backend sy
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/pavanlost56">
+      <a href="https://github.com/sonalkumar0056">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sonalkumar005&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="sonal GitHub Stats" />
       </a>
     </td>
